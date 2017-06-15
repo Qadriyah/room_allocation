@@ -16,5 +16,5 @@ Download or clone github repository
 * Navigate to project-folder\libs\Scripts
 * type activate and press Enter
 * Navigate back to project-folder
-* type python dojo.py -i and press Enter
+* type python app.py -i and press Enter
 

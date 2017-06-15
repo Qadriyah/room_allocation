@@ -6,11 +6,11 @@ When a new Fellow joins Andela, the application assigs him or her an office spac
 
 When a new Staff joins, they are assigned an office space only. 
 
-#Installation
+# Installation
 
 Download or clone github repository
 
-#Usage
+# Usage
 
 * Open command promp
 * Navigate to project-folder\libs\Scripts
